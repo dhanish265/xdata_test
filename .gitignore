@@ -7760,8 +7760,6 @@ LICENSE.txt
 .venv/share/jupyter/nbconvert/templates/webpdf/conf.json
 .venv/share/jupyter/nbconvert/templates/webpdf/index.pdf.j2
 .venv/share/man/man1/ipython.1
-asr/asr_api.py
-asr/test.py
 cv-invalid/cv-invalid/sample-000000.mp3
 cv-invalid/cv-invalid/sample-000001.mp3
 cv-invalid/cv-invalid/sample-000002.mp3
@@ -9996,3 +9994,9 @@ cv-invalid/cv-invalid/sample-002230.mp3
 cv-invalid/cv-invalid/sample-002231.mp3
 cv-invalid/cv-invalid/sample-002232.mp3
 cv-invalid/cv-invalid/sample-002233.mp3
+cv-invalid/
+cv-other-dev/
+cv-other-train/
+cv-valid-dev/
+cv-valid-test/
+cv-valid-train/
